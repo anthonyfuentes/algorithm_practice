@@ -3,7 +3,7 @@
 
 ## Info
 
-* See the [Linked List Wikipedi page](https://en.wikipedia.org/wiki/Linked_list) for a good explanation about what linked
+* See the [Linked List Wikipedia page](https://en.wikipedia.org/wiki/Linked_list) for a good explanation about what linked
   lists are
 * A basic Node struct is provided in the create_linked_list.rb file
   - You may use another implementation but it should maintain the same interface
