@@ -1,16 +1,18 @@
 
-## Practice Implementing Algorithms
+# Practice Implementing Algorithms
 
-### Instructions
+## Install
 
-* Fork then clone this repo
-* Change RSpec example groups to active
+1. Fork this repo
+2. Clone the fork to your machine
+
+## Practice
+1. Change RSpec example groups to active
   - Remove ```before { skip }``` from the describe block you'd like to
   implement the solution(s) for
-* Implement algorithm that satisfies the specs
-* Repeat
+2. Implement an algorithm that satisfies the specs
+3. Repeat
 
 ### Optional
 
-* To get the most out of these practices, I would suggest writing out
-  your solutions on paper or a whiteboard and debugging there as well
+* To get the most out of these practices, I  suggest writing out your solutions on paper or a whiteboard and only running the code after you've tested your solution with a couple of examples.
